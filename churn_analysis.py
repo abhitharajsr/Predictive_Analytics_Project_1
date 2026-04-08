@@ -24,7 +24,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import warnings
-warnings.filterwarnings('ignore')
+warnings.filterwarnings('IGNORE')
 
 # Sklearn
 from sklearn.model_selection import train_test_split, StratifiedKFold, GridSearchCV
