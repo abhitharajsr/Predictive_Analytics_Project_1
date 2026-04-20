@@ -49,12 +49,12 @@ This project builds a Machine Learning pipeline to:
 
 The interactive web application includes **6 pages**:
 
-1. **  Overview** â€” KPI cards, churn distribution, business insights
-2. ** Exploratory Analysis** â€” Interactive charts, correlation heatmaps
-3. ** Predict Churn** â€” Real-time prediction with risk gauge
-4. ** Model Performance** â€” Metrics comparison, ROC curves, confusion matrices
-5. **  SHAP Explainability** â€” Global/local SHAP analysis, beeswarm plots, feature dependence
-6. ** Retention Insights** â€” SHAP-backed business strategies, executive summary, priority playbook
+1. **  Overview**  KPI cards, churn distribution, business insights
+2. ** Exploratory Analysis**  Interactive charts, correlation heatmaps
+3. ** Predict Churn**  Real-time prediction with risk gauge
+4. ** Model Performance**  Metrics comparison, ROC curves, confusion matrices
+5. **  SHAP Explainability**  Global/local SHAP analysis, beeswarm plots, feature dependence
+6. ** Retention Insights**  SHAP-backed business strategies, executive summary, priority playbook
 
 ---
 
