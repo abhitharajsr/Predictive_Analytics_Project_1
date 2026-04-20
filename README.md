@@ -69,9 +69,9 @@ The interactive web application includes **6 pages**:
 ##  Technologies
 
 - **Python 3.8+**
-- **Pandas, NumPy** â€” Data manipulation
-- **Scikit-learn** â€” Model training & evaluation
-- **XGBoost, LightGBM** â€” Advanced ML models
+- **Pandas, NumPy**  Data manipulation
+- **Scikit-learn**  Model training & evaluation
+- **XGBoost, LightGBM**  Advanced ML models
 - **SHAP**  Model explainability (Shapley values)
 - **Imbalanced-learn**  SMOTE oversampling
 - **Plotly** Interactive visualizations
